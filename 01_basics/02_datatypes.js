@@ -19,7 +19,8 @@ let isLoggedIn=true
 //symbol=>unique
 
 //object
-
+console.log(typeof age)
 console.log(typeof Uname)
+console.log(typeof isLoggedIn);
 console.log(typeof null)//object type
 console.log(typeof undefined) //undefined
