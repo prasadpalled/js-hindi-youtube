@@ -1,6 +1,6 @@
 // Primitive
 
-// 7 types : String, Number, Boolean, null, undefined, Symbol, BigInt
+// 7 types : String, Number, Boolean, null, undefined, Symbol, BigInt (Immutable)
 
 const score =100
 const scoreValue=100.3
@@ -18,7 +18,7 @@ console.log(id === anotherId);
 
 
 
-// Reference (Non Premitive)
+// Reference (Non Premitive) (mutable)
 
 // Array, Objects, Functions
 
