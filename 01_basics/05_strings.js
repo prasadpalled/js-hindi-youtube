@@ -15,5 +15,14 @@ console.log(gameName.charAt(2));
 console.log(gameName.indexOf('a'));
 
 
+const newString = gameName.substring(0,4);
+
+console.log(newString);
+
+const anotherString = gameName.slice(-6,2);
+
+console.log(anotherString);
+
+
 
 
